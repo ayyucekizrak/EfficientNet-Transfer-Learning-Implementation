@@ -20,7 +20,7 @@ width, depth, or resolution. (e) is our proposed compound scaling method that un
 ---
 ### The Effect of Transfer Learning on EfficientNet
 ---
-:octocat: [EfficientNet: Increasing the Accuracy and Robustness CNNs](https://medium.com/@ayyucekizrak/%C3%B6l%C3%A7eklendirme-ile-cnn-modelinin-do%C4%9Fruluk-ve-verimlili%C4%9Fini-art%C4%B1rma-efficientnet-cb6f2b6512de) blog yazısının eki olarak hazırlanmış uygulamada [CIFAR10](https://www.cs.toronto.edu/~kriz/cifar.html) veri kümesi üzerinde EfficientNet içi Transfer Öğrenme gerçekleştirilmiştir.
+:octocat: [EfficientNet: Increasing the Accuracy and Robustness CNNs](https://medium.com/@ayyucekizrak/%C3%B6l%C3%A7eklendirme-ile-cnn-modelinin-do%C4%9Fruluk-ve-verimlili%C4%9Fini-art%C4%B1rma-efficientnet-cb6f2b6512de) Transfer Learning for EfficientNet was performed on the [CIFAR10](https://www.cs.toronto.edu/~kriz/cifar.html) dataset in the application prepared as an attachment to the blog post.
 
 ---
 

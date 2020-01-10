@@ -3,10 +3,10 @@ EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks
 
 ---
 
-📌[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayyucekizrak/EfficientNet-Transfer-Learning-Implementation/blob/master/EfficientNet_TransferLearning.ipynb) **Google Colab Not Defteri**
+📌[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayyucekizrak/EfficientNet-Transfer-Learning-Implementation/blob/master/EfficientNet_TransferLearning.ipynb) **Google Colab Notebook**
 
 
-📌[![Open In Jupyter](https://github.com/jupyter/notebook/blob/master/docs/resources/icon_32x32.svg)](https://nbviewer.jupyter.org/github/ayyucekizrak/EfficientNet-Transfer-Learning-Implementation/blob/master/EfficientNet_TransferLearning.ipynb) **Jupyter Not Defteri** 
+📌[![Open In Jupyter](https://github.com/jupyter/notebook/blob/master/docs/resources/icon_32x32.svg)](https://nbviewer.jupyter.org/github/ayyucekizrak/EfficientNet-Transfer-Learning-Implementation/blob/master/EfficientNet_TransferLearning.ipynb) **Jupyter Notebook** 
 
 ---
 

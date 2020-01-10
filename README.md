@@ -14,7 +14,8 @@ EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks
 
  ![EfficientNet-Model Scaling](https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/EfficientNet_CIFAR10_TransferOgrenme/EfficientNet-ModelOlcekleme.png)
 
-Model Ölçeklendirme. (a) bir temel ağ örneğidir; (b)-(d) ağın sadece bir boyutunu artıran geleneksel ölçeklendirmedir: genişlik, derinlik veya çözünürlük. (e) her üç boyutu da sabit bir oranla eşit şekilde ölçeklendiren önerilen bileşik ölçeklendirme yöntemidir.
+*Model Scaling:* (a) is a baseline network example; (b)-(d) are conventional scaling that only increases one dimension of network
+width, depth, or resolution. (e) is our proposed compound scaling method that uniformly scales all three dimensions with a fixed ratio.
 
 ---
 ### The Effect of Transfer Learning on EfficientNet
